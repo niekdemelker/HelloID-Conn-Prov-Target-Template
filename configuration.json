@@ -1,0 +1,12 @@
+[
+  {
+    "key": "Uri",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Uri",
+      "placeholder": "https://example.com",
+      "required": true
+    }
+  }
+]
